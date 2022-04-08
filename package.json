@@ -1,6 +1,6 @@
 {
   "name": "@dwlib/dw58",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DW58",
   "main": "lib/index.js",
   "imports": {
